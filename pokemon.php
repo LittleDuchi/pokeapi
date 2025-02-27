@@ -50,20 +50,7 @@ $data = get_pokemon_data($pokemon_name);
         </div>
 
 
-        
-
-
-
-        
-        <div class="row mt-5">
-            <div class="col text-center">
-                <h2 class="mb-4">Filtros</h2>
-                <button class="btn btn-warning m-2;">Eléctrico</button>
-                <button class="btn btn-danger m-2">Fuego</button>
-                <button class="btn btn-info m-2">Agua</button>
-                <button class="btn btn-success m-2">Planta</button>
-            </div>
-        </div>
+    
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
